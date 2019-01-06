@@ -1,0 +1,8 @@
+.idea
+*.iml
+target
+log
+logs
+log.dir_IS_UNDEFINED
+log.history.dir_IS_UNDEFINED
+out
